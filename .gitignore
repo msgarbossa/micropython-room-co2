@@ -1,0 +1,11 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+.pyc
+.vscode/
+envs.local
+boot.py
+webrepl_cfg.py
